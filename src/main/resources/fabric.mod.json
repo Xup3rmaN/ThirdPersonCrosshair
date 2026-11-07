@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "tpcrosshair",
+	"version": "${version}",
+	"name": "Third Person Crosshair",
+	"description": "Mouse button 5 toggles a rear third-person view with the player head hidden and the crosshair visible.",
+	"authors": ["BigBro"],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["com.bigbro.tpcrosshair.TpCrosshairClient"]
+	},
+	"mixins": [
+		{ "config": "tpcrosshair.client.mixins.json", "environment": "client" }
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

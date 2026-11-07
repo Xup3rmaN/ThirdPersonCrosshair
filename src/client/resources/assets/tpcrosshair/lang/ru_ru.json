@@ -1,0 +1,8 @@
+{
+	"key.category.tpcrosshair.main": "Третье лицо с прицелом",
+	"key.tpcrosshair.hold": "Удерживать: вид сзади (без головы + прицел + приближение)",
+	"tpcrosshair.fov.current": "FOV приближения: %s. Изменить: /tpcrosshair fov <10-110>",
+	"tpcrosshair.fov.set": "FOV приближения установлен: %s",
+	"tpcrosshair.smooth.on": "Приближение: плавное. Изменить: /tpcrosshair smooth off",
+	"tpcrosshair.smooth.off": "Приближение: мгновенное. Изменить: /tpcrosshair smooth on"
+}

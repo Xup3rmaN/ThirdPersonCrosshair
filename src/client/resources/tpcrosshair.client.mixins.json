@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "com.bigbro.tpcrosshair.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"AvatarRenderStateMixin",
+		"GameRendererMixin",
+		"GuiMixin",
+		"LevelRendererMixin",
+		"PlayerModelMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"key.category.tpcrosshair.main": "Third Person Crosshair",
+	"key.tpcrosshair.hold": "Hold for third person (headless + crosshair + zoom)",
+	"tpcrosshair.fov.current": "Zoom FOV: %s. Change it with /tpcrosshair fov <10-110>",
+	"tpcrosshair.fov.set": "Zoom FOV set to %s",
+	"tpcrosshair.smooth.on": "Zoom: smooth. Change it with /tpcrosshair smooth off",
+	"tpcrosshair.smooth.off": "Zoom: instant. Change it with /tpcrosshair smooth on"
+}
